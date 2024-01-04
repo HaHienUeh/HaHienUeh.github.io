@@ -1,3 +1,3 @@
 # HaHienUeh.github.io
-A random basic html project at uni
-> *Link: hahienueh.github.io*
+random basic html project at uni
+> *[Visit my page](https://hahienueh.github.io)*
